@@ -1,0 +1,14 @@
+current directory: C:/Users/Kazuki/tutorial/vendor/bundle/gems/nio4r-2.3.1/ext/nio4r
+C:/Ruby25-x64/bin/ruby.exe -I C:/Ruby25-x64/lib/ruby/site_ruby/2.5.0 -r ./siteconf20190626-2676-13ib33l.rb extconf.rb
+
+current directory: C:/Users/Kazuki/tutorial/vendor/bundle/gems/nio4r-2.3.1/ext/nio4r
+make "DESTDIR=" clean
+make: *** ターゲット 'clean' を make するルールがありません.  中止.
+
+current directory: C:/Users/Kazuki/tutorial/vendor/bundle/gems/nio4r-2.3.1/ext/nio4r
+make "DESTDIR="
+make: 'all' に対して行うべき事はありません.
+
+current directory: C:/Users/Kazuki/tutorial/vendor/bundle/gems/nio4r-2.3.1/ext/nio4r
+make "DESTDIR=" install
+make: 'install' に対して行うべき事はありません.
