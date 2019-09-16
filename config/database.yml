@@ -11,10 +11,10 @@ development:
   pool: 5
   reconnect: false
   timeout: 5000
-  database: tutorial_db
-  username: tutorial557
+  database: testdatabase3
+  username: kawa557
   password: kawa1849
-  host: tutorial-mysql.cgvk1k4fm8hb.ap-northeast-1.rds.amazonaws.com
+  host: testdatabase3.cgvk1k4fm8hb.ap-northeast-1.rds.amazonaws.com
 
 
 # Warning: The database defined as "test" will be erased and
@@ -26,10 +26,10 @@ test:
   pool: 5
   reconnect: false
   timeout: 5000
-  database: tutorial_db
-  username: tutorial557
+  database: testdatabase3
+  username: kawa557
   password: kawa1849
-  host: tutorial-mysql.cgvk1k4fm8hb.ap-northeast-1.rds.amazonaws.com
+  host: testdatabase3.cgvk1k4fm8hb.ap-northeast-1.rds.amazonaws.com
 
 production:
   adapter: mysql2
@@ -37,7 +37,7 @@ production:
   pool: 5
   reconnect: false
   timeout: 5000
-  database: tutorial_db
-  username: tutorial557
+  database: testdatabase3
+  username: kawa557
   password: kawa1849
-  host: tutorial-mysql.cgvk1k4fm8hb.ap-northeast-1.rds.amazonaws.com
+  host: testdatabase3.cgvk1k4fm8hb.ap-northeast-1.rds.amazonaws.com

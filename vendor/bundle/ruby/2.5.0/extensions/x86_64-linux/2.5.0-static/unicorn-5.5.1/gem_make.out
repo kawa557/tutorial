@@ -1,5 +1,5 @@
 current directory: /home/ec2-user/tutorial/vendor/bundle/ruby/2.5.0/gems/unicorn-5.5.1/ext/unicorn_http
-/home/ec2-user/.rbenv/versions/2.5.5/bin/ruby -I /home/ec2-user/.rbenv/versions/2.5.5/lib/ruby/site_ruby/2.5.0 -r ./siteconf20190727-5621-1cjwmob.rb extconf.rb
+/home/ec2-user/.rbenv/versions/2.5.5/bin/ruby -r ./siteconf20190916-21040-dj1rq0.rb extconf.rb
 checking for SIZEOF_OFF_T in ruby.h... yes
 checking for SIZEOF_SIZE_T in ruby.h... yes
 checking for SIZEOF_LONG in ruby.h... yes
@@ -30,4 +30,4 @@ linking shared-object unicorn_http.so
 
 current directory: /home/ec2-user/tutorial/vendor/bundle/ruby/2.5.0/gems/unicorn-5.5.1/ext/unicorn_http
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 unicorn_http.so ./.gem.20190727-5621-ogy7zw
+/usr/bin/install -c -m 0755 unicorn_http.so ./.gem.20190916-21040-1rlqvnn
